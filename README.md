@@ -161,5 +161,3 @@ Each scenario follows a structured IT support workflow:
 
 ## Project Outcome
 This project demonstrates readiness for entry-level IT support roles by simulating real enterprise Microsoft 365 administration and helpdesk scenarios.
-
-© 2026 Sooji Jang. All rights reserved.
